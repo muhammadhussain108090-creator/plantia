@@ -1,0 +1,6 @@
+{
+  "name": "AI Plant Doctor - STEAM Disease Diagnostic Tool",
+  "description": "Interactive AI-powered plant pathologist and botanical health diagnostic lab for school STEAM exhibitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
